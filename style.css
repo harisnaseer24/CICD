@@ -1,6 +1,8 @@
 body{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     color: grey ;
+    border: 2px double grey;
+    margin: 20px;
 }
 h1{
     color: blueviolet;
